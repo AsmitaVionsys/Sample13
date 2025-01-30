@@ -1,0 +1,9 @@
+{
+  "trailingComma": "none",
+  "bracketSameLine": true,
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "printWidth": 150,
+  "endOfLine": "crlf"
+}
